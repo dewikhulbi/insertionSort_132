@@ -66,3 +66,9 @@ void insertionsort()
         }
     }
 }
+
+void display()
+{                                                           //output baris kosong
+    cout << "Total Element Movement= " << n - 1 << endl;        //cout movement element
+    cout << "\n=======================" << endl;    //output ke layar
+}
