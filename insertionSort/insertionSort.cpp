@@ -83,3 +83,6 @@ void display()
 }
 
 int main()
+{
+    input();    //memanggil input
+}
